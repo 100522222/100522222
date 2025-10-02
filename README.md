@@ -21,7 +21,7 @@
   </section>
 
   <footer>
-    © 2025 Tu Nombre | Construido con ❤️ y HTML
+    © 2025 Roberto | Construido con ❤️ y HTML
   </footer>
 </body>
 </html>
