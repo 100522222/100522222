@@ -14,7 +14,7 @@
   <section>
     <h2>Sobre mí</h2>
     <p>
-      Soy estudiante apasionado por la programación y el aprendizaje continuo.
+      Soy un estudiante apasionado por la programación y el aprendizaje continuo.
       Me gusta experimentar con proyectos, colaborar en GitHub y descubrir nuevas tecnologías.
     </p>
   </section>
